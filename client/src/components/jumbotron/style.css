@@ -1,0 +1,11 @@
+h1, p {
+  text-align: center;
+}
+
+.jumbotron{
+  background-image: url("/bestbooks.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center center;
+
+}

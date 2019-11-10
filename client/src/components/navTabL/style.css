@@ -1,0 +1,11 @@
+h3, p{
+ color: #333;
+ text-align: center;
+}
+
+body{
+  background-image: url("/login_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
